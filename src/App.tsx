@@ -55,7 +55,7 @@ class App extends React.Component<IAppProps, IAppState> {
                     <Switch>
                         <Route path='/' exact={true} render={() => <WrapperComponent updateCartitem={this.updateCartitem} />} />
                         <Route path='/cart-application-adobe' exact={true} render={() => <WrapperComponent updateCartitem={this.updateCartitem} />} />
-                        <Route path='/cart' exact={true} component={CartViewComponent} />
+                        <Route path='/cart-application-adobe/cart' exact={true} component={CartViewComponent} />
                     </Switch>
                 </div>
             </BrowserRouter>

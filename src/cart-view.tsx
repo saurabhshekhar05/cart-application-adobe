@@ -172,7 +172,7 @@ export default class CartViewComponent extends React.Component<ICartProps, ICart
                                                                 </div>
                                                             </td>
                                                             <td className="text-right">
-                                                                <a href="/cart" className="btn btn-light" onClick={() => this.removeFromCart(this, items.id)}>
+                                                                <a href="/cart-application-adobe/cart" className="btn btn-light" onClick={() => this.removeFromCart(this, items.id)}>
                                                                     <FontAwesomeIcon icon={faTrash} className="fa fa-trash" />
                                                                 </a>
                                                             </td>

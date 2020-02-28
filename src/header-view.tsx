@@ -35,7 +35,7 @@ export default class HeaderViewComponent extends React.Component<IHeaderProps, {
                <div className="col-lg-4 col-sm-6 col-12">
                   <div className="widgets-wrap float-md-right">
                      <div className="widget-header  mr-3">
-                        <NavLink to='/cart' className="nav-link icon icon-sm rounded-circle border"
+                        <NavLink to='/cart-application-adobe/cart' className="nav-link icon icon-sm rounded-circle border"
                            activeClassName='active'>
                            <FontAwesomeIcon icon={faShoppingCart} className="fa fa-shopping-cart" />
                         </NavLink>
