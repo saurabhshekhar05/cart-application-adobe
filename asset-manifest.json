@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.4eee2696.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.c7f23969.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.c7f23969.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.18f3f39c.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.18f3f39c.js.map",
+    "static/css/2.765f46be.chunk.css": "/shopping-cart/static/css/2.765f46be.chunk.css",
+    "static/js/2.69d1314e.chunk.js": "/shopping-cart/static/js/2.69d1314e.chunk.js",
+    "static/js/2.69d1314e.chunk.js.map": "/shopping-cart/static/js/2.69d1314e.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "precache-manifest.a016f5c17d2e2d0fe446f4bdb7b36e93.js": "/shopping-cart/precache-manifest.a016f5c17d2e2d0fe446f4bdb7b36e93.js",
+    "service-worker.js": "/shopping-cart/service-worker.js",
+    "static/css/2.765f46be.chunk.css.map": "/shopping-cart/static/css/2.765f46be.chunk.css.map",
+    "static/css/main.4eee2696.chunk.css.map": "/shopping-cart/static/css/main.4eee2696.chunk.css.map",
+    "static/js/2.69d1314e.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.69d1314e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f3f39c.js",
+    "static/css/2.765f46be.chunk.css",
+    "static/js/2.69d1314e.chunk.js",
+    "static/css/main.4eee2696.chunk.css",
+    "static/js/main.c7f23969.chunk.js"
+  ]
+}
