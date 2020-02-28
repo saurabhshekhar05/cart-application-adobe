@@ -135,7 +135,7 @@ export default class CartViewComponent extends React.Component<ICartProps, ICart
                                                                         <img src={items.img_url} alt={items.name} className="img-sm" />
                                                                     </div>
                                                                     <figcaption className="info">
-                                                                        <a href="/#" className="title text-dark">
+                                                                        <a href="/cart-application-adobe" className="title text-dark">
                                                                             {items.name}</a>
                                                                         <p className="text-muted small">Category: {items.category}
                                                                         </p>

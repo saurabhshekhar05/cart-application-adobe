@@ -52,7 +52,7 @@ export default class GridDetailsComponent extends React.Component<ICartProps, {}
                                 <div className="card">
                                     <article className="filter-group">
                                         <header className="card-header">
-                                            <a href="/#" data-toggle="collapse" data-target="#collapse_3" aria-expanded="true" className="">
+                                            <a href="/cart-application-adobe" data-toggle="collapse" data-target="#collapse_3" aria-expanded="true" className="">
                                                 <FontAwesomeIcon icon={faChevronDown} className="icon-control fa fa-chevron-down" />
                                                 <h6 className="title">Price range </h6>
                                             </a>
@@ -78,13 +78,13 @@ export default class GridDetailsComponent extends React.Component<ICartProps, {}
                                                     </div>
                                                     <figcaption className="info-wrap">
                                                         <div className="fix-height">
-                                                            <a href="/#" className="title">{items.name}</a>
+                                                            <a href="/cart-application-adobe" className="title">{items.name}</a>
                                                             <div className="price-wrap mt-2">
                                                                 <span className="price">{items.price}</span>
                                                                 <del className="price-old">{items.discount}</del>
                                                             </div>
                                                         </div>
-                                                        <a href="/#" id={'addToCartID_' + items.id} onClick={() => this.addToCart(this, items.id)}
+                                                        <a href="/cart-application-adobe" id={'addToCartID_' + items.id} onClick={() => this.addToCart(this, items.id)}
                                                             className="btn btn-block btn-primary">
                                                             <FontAwesomeIcon icon={faShoppingBag} />
                                                             Add to cart </a>
