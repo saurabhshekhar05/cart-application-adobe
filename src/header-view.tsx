@@ -20,8 +20,8 @@ export default class HeaderViewComponent extends React.Component<IHeaderProps, {
             <div className="container">
             <div className="row align-items-center">
                <div className="col-lg-2 col-4">
-                  <a href="/#" className="brand-wrap">
-                  <img className="logo" alt="logo" src="../assets/images/logo/staricon.png" />
+                  <a href="/cart-application-adobe" className="brand-wrap">
+                  <img className="logo" alt="logo" src="../assets/staricon.png" />
                   </a>
                </div>
                 <div className="col-lg-6 col-sm-12">
